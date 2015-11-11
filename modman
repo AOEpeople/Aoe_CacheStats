@@ -1,0 +1,3 @@
+app/code/community/Aoe/CacheStats app/code/community/Aoe/CacheStats
+app/etc/modules/Aoe_CacheStats.xml app/etc/modules/Aoe_CacheStats.xml
+app/etc/aoe_cachestats.xml app/etc/aoe_cachestats.xml

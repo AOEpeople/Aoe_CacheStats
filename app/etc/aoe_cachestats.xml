@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <cache>Aoe_CacheStats_Model_Cache</cache>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+</config>

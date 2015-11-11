@@ -1,0 +1,16 @@
+{
+    "name": "aoepeople/aoe_cachestats",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description": "Gathers cache statistics",
+    "authors": [
+        {
+            "name": "Fabrizio Branca",
+            "email": "mail@firstname-lastname.de"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
+
