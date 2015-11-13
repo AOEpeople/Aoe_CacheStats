@@ -96,7 +96,7 @@ class Aoe_CacheStats_Model_Cache extends Mage_Core_Model_Cache
     public function __destruct()
     {
         if ($this->log) {
-            file_put_contents(Mage::getBaseDir('log') . '/aoe_cachestats.log', $this->log, FILE_APPEND);
+            file_put_contents(Mage::getBaseDir('var') . '/log/aoe_cachestats.log', $this->log, FILE_APPEND);
             $this->log = '';
         }
     }
